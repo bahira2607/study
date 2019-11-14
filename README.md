@@ -1,0 +1,2 @@
+# study
+Stepik auto testing
